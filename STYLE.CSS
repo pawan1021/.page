@@ -1,0 +1,20 @@
+H1{
+   color: rgb(20, 238, 49); background-color: coral;text-align:center;
+}
+P{
+    color: rgb(231, 82, 13); background-color: rgba(64, 160, 25, 0.301);font-family: cursive;
+    border-style: double;
+    border-width:10;
+}
+H5{
+    color: rgb(71, 223, 24);background-COLOR: RED;
+}
+BODY{
+    background-color: rgba(222, 184, 135, 0.267);
+    background-repeat: repeat-x;
+    background: linear-gradient(#10c7aea1, #bcc0f563);
+    border-style:solid;
+    border-width:8px;
+    border-color: crimson;
+    
+}
